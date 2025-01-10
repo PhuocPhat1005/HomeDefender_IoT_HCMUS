@@ -1,0 +1,5262 @@
+[
+    {
+        "id": "272d1d5ad59c6eb2",
+        "type": "tab",
+        "label": "Device Controls",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "d2f490df54b2a493",
+        "type": "tab",
+        "label": "Live Video",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "576d13d50710547a",
+        "type": "tab",
+        "label": "Authentication",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "f3221a6ce09fb2e0",
+        "type": "tab",
+        "label": "History",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "aaca52cbae79855a",
+        "type": "tab",
+        "label": "Firebase Connection",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "95d339d24bf805d9",
+        "type": "group",
+        "z": "576d13d50710547a",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "bcde2609fd69f4d0",
+            "20f4b2f5e67d0d6e",
+            "4935399c98d6e48f",
+            "af894a9cd013adf5",
+            "fc024cd172016a60"
+        ],
+        "x": 54,
+        "y": 579,
+        "w": 552,
+        "h": 182
+    },
+    {
+        "id": "5a9d377d8c4bd7f7",
+        "type": "group",
+        "z": "576d13d50710547a",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "9d1dc0731414a5fa",
+            "f8354cc5d2285f7b",
+            "612a265becb17fe8",
+            "78b85d4ed7701adb",
+            "3328b06076b989c6",
+            "57793783f72ce634",
+            "ce39499b1bd14cd7",
+            "c731b7c4781449f4",
+            "e7db2d97cad288cc",
+            "1e47fa1733af4c9e",
+            "8a38ec655daf5676"
+        ],
+        "x": 54,
+        "y": 219,
+        "w": 1192,
+        "h": 322
+    },
+    {
+        "id": "10184632b8994817",
+        "type": "group",
+        "z": "576d13d50710547a",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "2915f47ec2061acc",
+            "93f2176ebc6ae0bc",
+            "9c1c43ea23666bc3",
+            "8a139242b28ad8c5",
+            "f767d38f780b5ee4"
+        ],
+        "x": 54,
+        "y": 59,
+        "w": 1032,
+        "h": 142
+    },
+    {
+        "id": "9a2f254add7a0917",
+        "type": "group",
+        "z": "d2f490df54b2a493",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "3f9e169302554dc0",
+            "61ec7b8a1a06cbee",
+            "3e5162b39caceed9",
+            "c0813e9a31085fae",
+            "1a915d49f92fad1a",
+            "a2f3596657030f72",
+            "949da4121bd1db33",
+            "e6302bb39ad2dd0a",
+            "a7f73c5bc3430a85",
+            "a7814d988d13e490",
+            "d1b8f428b3c3b95b",
+            "55ca00c4cbd9f5ef",
+            "9e947ebd28c84566",
+            "f6d2e4c0d564575c",
+            "b8002dc78a04c345",
+            "141a37d20c479883",
+            "028a9a565748fa56"
+        ],
+        "x": 94,
+        "y": 19,
+        "w": 872,
+        "h": 502
+    },
+    {
+        "id": "aa5eafc940028c9d",
+        "type": "group",
+        "z": "d2f490df54b2a493",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "0f2b2ceca94c8d99",
+            "32573abd5bea7341",
+            "c2c213be9ced180a",
+            "1b51b3ecb6a6093b",
+            "86d8aeed839643ad",
+            "bca2a81e504e3e03",
+            "ca553caa8d143919",
+            "cfc39843f37370be",
+            "c3657c0f0c150dbb",
+            "52b2534581a3ddca",
+            "073c3ddfcecd7329",
+            "37f6dc101f86fd4e",
+            "5dfac89a85d07973",
+            "8edc66c7b5771c21",
+            "260d358e8868ddfa",
+            "dffb4e8ea1824ea0",
+            "968c4a3d5ffb6692"
+        ],
+        "x": 94,
+        "y": 699,
+        "w": 2512,
+        "h": 302
+    },
+    {
+        "id": "ca3b0536ba4a18b8",
+        "type": "group",
+        "z": "d2f490df54b2a493",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "92081275cac84eb7",
+            "0f436c62cc86c64c",
+            "f10e664fb46e0da9",
+            "127c0cf817d2448e",
+            "fd7b07551bb19903"
+        ],
+        "x": 94,
+        "y": 539,
+        "w": 952,
+        "h": 142
+    },
+    {
+        "id": "77baf9b0c4401e19",
+        "type": "group",
+        "z": "272d1d5ad59c6eb2",
+        "name": "",
+        "style": {
+            "label": true
+        },
+        "nodes": [
+            "6e956fc472c9ba3e",
+            "d5dcc2e37c805bf9",
+            "bf9cc5e6c54bece6",
+            "a01d12c79b24cefa",
+            "b72a09760b65bb5c",
+            "5af0eeca3e58d679",
+            "c576156fe30af0c8",
+            "47e930693e21f1a7",
+            "5e0ae8b18471726c"
+        ],
+        "x": 54,
+        "y": 659,
+        "w": 1392,
+        "h": 162
+    },
+    {
+        "id": "18c9c10cd8dcb964",
+        "type": "group",
+        "z": "d2f490df54b2a493",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "3815795b80661ce8",
+            "35bb284e600b2a0c",
+            "799cb588bc2f8f38",
+            "aa72a612c92420ae",
+            "42cc4b7d46fe9516",
+            "9b24838a42d61dc1",
+            "09fc825053141e52",
+            "c691300cb6926218",
+            "249e493bac1f318d",
+            "ee6e2063a56ba6ce",
+            "c8652aafd53cf5b5",
+            "25f173b39bfc7852",
+            "646b0d7bd6ec779b",
+            "bbee5c963a064bd9"
+        ],
+        "x": 94,
+        "y": 1019,
+        "w": 1592,
+        "h": 302
+    },
+    {
+        "id": "fec5262b965ad4ec",
+        "type": "group",
+        "z": "d2f490df54b2a493",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "01a3dcdb8efa7df4",
+            "6e1901b26d78a17e",
+            "a69c134308afdc61",
+            "70d342c092cb1b31",
+            "b7de9f2bedea04d1",
+            "94b1358c03e257cc",
+            "79a1e7c409fa05d0",
+            "746e6ca95a03efb5",
+            "a0f45157a80e7b4e",
+            "2b592e5fda0a316c",
+            "2a8738fbb302cf82"
+        ],
+        "x": 94,
+        "y": 1339,
+        "w": 972,
+        "h": 262
+    },
+    {
+        "id": "3c5b16a3aeb6c02b",
+        "type": "group",
+        "z": "d2f490df54b2a493",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "afeee424bfa26113",
+            "a06fb4a8a9e0d234",
+            "118e20764e9f53dd",
+            "71310baeea3616a5",
+            "8f6ef1538cbe6805",
+            "fb85dd4af7ecc2eb",
+            "ced95450b0605e06",
+            "23ac2009526fbadb",
+            "f88ee9decfc05871"
+        ],
+        "x": 94,
+        "y": 1619,
+        "w": 872,
+        "h": 242
+    },
+    {
+        "id": "ec27908e3607bb73",
+        "type": "group",
+        "z": "f3221a6ce09fb2e0",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "9eff16b3ff6e37d8",
+            "f5a8820db1d5601d",
+            "b5325768c6a7d549",
+            "e779f78435148203",
+            "a3a1cb87490d1719",
+            "d34313e859d2bbdb",
+            "7094eb477d48d2fd",
+            "f7b3774c0ef52c35"
+        ],
+        "x": 74,
+        "y": 99,
+        "w": 1152,
+        "h": 222
+    },
+    {
+        "id": "73d7fe3db8336338",
+        "type": "group",
+        "z": "272d1d5ad59c6eb2",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "d812871661afb03b",
+            "a95649d16f78705a",
+            "8bd723765646c36b",
+            "e374a3fbd824e847",
+            "7ac95963105d223e",
+            "3918a6b34a5dd9dc",
+            "492d8409281e8576",
+            "79769a455e74c436",
+            "532e8c6c2f106594",
+            "d3f45375bd09fde3",
+            "de85406e61e12fdb",
+            "2b022c597c7e7198"
+        ],
+        "x": 54,
+        "y": 59,
+        "w": 1012,
+        "h": 382
+    },
+    {
+        "id": "159e31d851c8037d",
+        "type": "group",
+        "z": "272d1d5ad59c6eb2",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "0fd28be11edd4516",
+            "66c123d38a35fbc0",
+            "b068944566987fdb",
+            "3eb9b708f26ae8e9"
+        ],
+        "x": 54,
+        "y": 459,
+        "w": 1032,
+        "h": 82
+    },
+    {
+        "id": "a35fa70c6ba17a74",
+        "type": "group",
+        "z": "272d1d5ad59c6eb2",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "d2af2807bb6f7a14",
+            "61896c97bf1b8047",
+            "338e1e4ddb8eaed7",
+            "f11620bca42e485c"
+        ],
+        "x": 54,
+        "y": 559,
+        "w": 972,
+        "h": 82
+    },
+    {
+        "id": "f2b605ac1d885469",
+        "type": "group",
+        "z": "f3221a6ce09fb2e0",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "2ef4d1c310ba25c3",
+            "4076880755c340f3",
+            "a8306391180cb1b5",
+            "854e0e29cc93baf0",
+            "5736a10b736347c8",
+            "9e97941b21d52bdf",
+            "af649f2e2b67215d",
+            "44364923ba63e72e"
+        ],
+        "x": 54,
+        "y": 359,
+        "w": 1612,
+        "h": 162
+    },
+    {
+        "id": "5e886eeda963b335",
+        "type": "group",
+        "z": "272d1d5ad59c6eb2",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "cb59de5a2783580b",
+            "d225da1cc47eff3b",
+            "a1fba48285def3e0",
+            "850f68cb64e15d53",
+            "41138a861d240968",
+            "2e36a4393b8ab8f5",
+            "6f4036228e1e435b",
+            "e9a1501d7531aeb1",
+            "fd357158f47c6efc",
+            "191434835243be39"
+        ],
+        "x": 54,
+        "y": 839,
+        "w": 1212,
+        "h": 262
+    },
+    {
+        "id": "d8db2c52dc728225",
+        "type": "group",
+        "z": "272d1d5ad59c6eb2",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "2511751344d01680",
+            "b6c83eb08a8935ea",
+            "704161f1d79d6296",
+            "b1d18e945e164c9f",
+            "cd12545869b7c055",
+            "263452e2a54aa5d3",
+            "1feb733623af96cc",
+            "5e21425e79b55aa8",
+            "6bd2bedbb6a77d18",
+            "6720a2a72adbea88"
+        ],
+        "x": 54,
+        "y": 1139,
+        "w": 992,
+        "h": 302
+    },
+    {
+        "id": "cad252d2ec03e55a",
+        "type": "group",
+        "z": "f3221a6ce09fb2e0",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "b4452819b059d642",
+            "682d54645f9d88ce",
+            "5bf3c9127d28517c",
+            "f49e456f08b01be3",
+            "83075c2148a02962",
+            "6dce5bd68e9efa4f",
+            "d4e1622e6df1dc85",
+            "416bda0e622816fb",
+            "677e127806d4b7fe",
+            "7f8ade50782932f5"
+        ],
+        "x": 74,
+        "y": 579,
+        "w": 1622,
+        "h": 182
+    },
+    {
+        "id": "b213726e0ab2ada2",
+        "type": "group",
+        "z": "aaca52cbae79855a",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "6aa7b7b3b9bfb8a9",
+            "8d3e275a50bd080c",
+            "24bc3ed714bb42e7",
+            "c39f552fdc2107b4",
+            "eb922cbbb198ef57",
+            "b284a066f3e4a0e8",
+            "8151bc9834cc90ae",
+            "7649a30e8ce6d9d2",
+            "d9cad586450ade3d"
+        ],
+        "x": 14,
+        "y": 199,
+        "w": 2112,
+        "h": 142
+    },
+    {
+        "id": "fe85141e82259149",
+        "type": "ui_group",
+        "name": "Time Settings",
+        "tab": "a0cd6e42aa9265b7",
+        "order": 1,
+        "disp": true,
+        "width": "10",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "ae4cca4fb9afba6f",
+        "type": "ui_group",
+        "name": "Take Photos",
+        "tab": "d529af850965d1a0",
+        "order": 2,
+        "disp": true,
+        "width": "12",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "da2955ab1e894c96",
+        "type": "ui_group",
+        "name": "Live Stream Video",
+        "tab": "d529af850965d1a0",
+        "order": 1,
+        "disp": true,
+        "width": "12",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "fa6ff7795c5140cd",
+        "type": "ui_group",
+        "name": "Settings",
+        "tab": "d529af850965d1a0",
+        "order": 3,
+        "disp": true,
+        "width": "7",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "02e2eb39ba394ce7",
+        "type": "ui_group",
+        "name": "View Activity History",
+        "tab": "69700d02186953ae",
+        "order": 1,
+        "disp": true,
+        "width": "12",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "1a50c146cd7fe927",
+        "type": "ui_group",
+        "name": "View Photos",
+        "tab": "69700d02186953ae",
+        "order": 2,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "1584b5a33644a100",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "broker.mqtt-dashboard.com",
+        "port": "1883",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "566975cda358d535",
+        "type": "ui_group",
+        "name": "View Videos",
+        "tab": "69700d02186953ae",
+        "order": 3,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "14f81daad27ed41e",
+        "type": "ui_group",
+        "name": "Activate / Deactivate System",
+        "tab": "a0cd6e42aa9265b7",
+        "order": 5,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "487f013b66baf76a",
+        "type": "ui_group",
+        "name": "Environment Status",
+        "tab": "a0cd6e42aa9265b7",
+        "order": 4,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "7e8df163c033a59a",
+        "type": "ui_group",
+        "name": "Log out",
+        "tab": "69700d02186953ae",
+        "order": 4,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "a0cd6e42aa9265b7",
+        "type": "ui_tab",
+        "name": "Device Controls",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "d529af850965d1a0",
+        "type": "ui_tab",
+        "name": "Live Video",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "69700d02186953ae",
+        "type": "ui_tab",
+        "name": "History",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "5f733ce7797b3e91",
+        "type": "ui_base",
+        "theme": {
+            "name": "theme-dark",
+            "lightTheme": {
+                "default": "#0094CE",
+                "baseColor": "#0094CE",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "darkTheme": {
+                "default": "#097479",
+                "baseColor": "#097479",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "customTheme": {
+                "name": "Untitled Theme 1",
+                "default": "#4B7930",
+                "baseColor": "#4B7930",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+            },
+            "themeState": {
+                "base-color": {
+                    "default": "#097479",
+                    "value": "#097479",
+                    "edited": false
+                },
+                "page-titlebar-backgroundColor": {
+                    "value": "#097479",
+                    "edited": false
+                },
+                "page-backgroundColor": {
+                    "value": "#111111",
+                    "edited": false
+                },
+                "page-sidebar-backgroundColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "group-textColor": {
+                    "value": "#0eb8c0",
+                    "edited": false
+                },
+                "group-borderColor": {
+                    "value": "#555555",
+                    "edited": false
+                },
+                "group-backgroundColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "widget-textColor": {
+                    "value": "#eeeeee",
+                    "edited": false
+                },
+                "widget-backgroundColor": {
+                    "value": "#097479",
+                    "edited": false
+                },
+                "widget-borderColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "base-font": {
+                    "value": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+                }
+            },
+            "angularTheme": {
+                "primary": "indigo",
+                "accents": "blue",
+                "warn": "red",
+                "background": "grey",
+                "palette": "light"
+            }
+        },
+        "site": {
+            "name": "Node-RED Dashboard",
+            "hideToolbar": "false",
+            "allowSwipe": "false",
+            "lockMenu": "false",
+            "allowTempTheme": "true",
+            "dateFormat": "DD/MM/YYYY",
+            "sizes": {
+                "sx": 48,
+                "sy": 48,
+                "gx": 6,
+                "gy": 6,
+                "cx": 6,
+                "cy": 6,
+                "px": 0,
+                "py": 0
+            }
+        }
+    },
+    {
+        "id": "09d367021e44876d",
+        "type": "ui_group",
+        "name": "Home",
+        "tab": "95ac1118cf338bf7",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "fdd85b4fc936d320",
+        "type": "ui_group",
+        "name": "Sign In Form",
+        "tab": "fbe7a90df7a67773",
+        "order": 2,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "582788fcf024c861",
+        "type": "ui_group",
+        "name": "Sign Up Form",
+        "tab": "928c2ed8c6b211c0",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "95ac1118cf338bf7",
+        "type": "ui_tab",
+        "name": "HomeDefender",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "fbe7a90df7a67773",
+        "type": "ui_tab",
+        "name": "Sign In",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "928c2ed8c6b211c0",
+        "type": "ui_tab",
+        "name": "Sign Up",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "fd04b08a8dc3704d",
+        "type": "firebase config",
+        "firebaseurl": "home-def-23f78-default-rtdb",
+        "loginType": "none"
+    },
+    {
+        "id": "aa6ea2cf5704c98c",
+        "type": "firebase config",
+        "firebaseurl": "home-def-23f78-default-rtdb",
+        "loginType": "none"
+    },
+    {
+        "id": "2ab0f98749ec942a",
+        "type": "firebase config",
+        "firebaseurl": "home-def-23f78-default-rtdb",
+        "loginType": "none"
+    },
+    {
+        "id": "d00c829a0d31e874",
+        "type": "firebase config",
+        "firebaseurl": "home-def-23f78-default-rtdb",
+        "loginType": "none"
+    },
+    {
+        "id": "3ae7c65f8d5ea5f6",
+        "type": "firebase config",
+        "firebaseurl": "home-def-23f78-default-rtdb",
+        "loginType": "none"
+    },
+    {
+        "id": "5c802f520a25cf97",
+        "type": "firebase config",
+        "firebaseurl": "home-def-23f78-default-rtdb",
+        "loginType": "none"
+    },
+    {
+        "id": "81a79d8c10bdc4ba",
+        "type": "firebase config",
+        "firebaseurl": "home-def-23f78-default-rtdb",
+        "loginType": "none"
+    },
+    {
+        "id": "fdf97f4342766e07",
+        "type": "firebase config",
+        "firebaseurl": "home-def-23f78-default-rtdb",
+        "loginType": "none"
+    },
+    {
+        "id": "4b5cd5e6811d5385",
+        "type": "firebase config",
+        "firebaseurl": "home-def-23f78-default-rtdb",
+        "loginType": "none"
+    },
+    {
+        "id": "2e4ca1bc34d120c3",
+        "type": "firebase config",
+        "firebaseurl": "home-def-23f78-default-rtdb",
+        "loginType": "none"
+    },
+    {
+        "id": "8f90a544d7f08fe4",
+        "type": "firebase config",
+        "firebaseurl": "home-def-23f78-default-rtdb",
+        "loginType": "none"
+    },
+    {
+        "id": "1d97b10ba6e932e6",
+        "type": "firebase config",
+        "firebaseurl": "home-def-23f78-default-rtdb",
+        "loginType": "none"
+    },
+    {
+        "id": "cf1df29996fb8798",
+        "type": "firebase config",
+        "firebaseurl": "home-def-23f78-default-rtdb",
+        "loginType": "none"
+    },
+    {
+        "id": "29bec5158810775a",
+        "type": "firebase config",
+        "firebaseurl": "home-def-23f78-default-rtdb",
+        "loginType": "none"
+    },
+    {
+        "id": "584d4ee81ca18792",
+        "type": "ui_tab",
+        "name": "TEST",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "6ef5300fe05dd497",
+        "type": "firebase config",
+        "firebaseurl": "home-def-23f78-default-rtdb",
+        "loginType": "none"
+    },
+    {
+        "id": "94d5281e06eedb1d",
+        "type": "firebase config",
+        "firebaseurl": "home-def-23f78-default-rtdb",
+        "loginType": "none"
+    },
+    {
+        "id": "4c01bf070e4f8c6e",
+        "type": "firebase config",
+        "firebaseurl": "home-def-23f78-default-rtdb",
+        "loginType": "none"
+    },
+    {
+        "id": "4245cfa1c8d5610c",
+        "type": "firebase config",
+        "firebaseurl": "home-def-23f78-default-rtdb",
+        "loginType": "none"
+    },
+    {
+        "id": "b27ea657984d3c73",
+        "type": "firebase config",
+        "firebaseurl": "home-def-23f78-default-rtdb",
+        "loginType": "none"
+    },
+    {
+        "id": "14ef769b5fcc78e2",
+        "type": "firebase config",
+        "firebaseurl": "home-def-23f78-default-rtdb",
+        "loginType": "none"
+    },
+    {
+        "id": "328d9ea24cb762d7",
+        "type": "firebase config",
+        "firebaseurl": "home-def-23f78-default-rtdb",
+        "loginType": "none"
+    },
+    {
+        "id": "602f47074559db18",
+        "type": "firebase config",
+        "firebaseurl": "home-def-23f78-default-rtdb",
+        "loginType": "none"
+    },
+    {
+        "id": "92076c68d29eacaf",
+        "type": "firebase config",
+        "firebaseurl": "home-def-23f78-default-rtdb",
+        "loginType": "none"
+    },
+    {
+        "id": "e4a6b5c792c3bef3",
+        "type": "ui_group",
+        "name": "System Status Mode",
+        "tab": "a0cd6e42aa9265b7",
+        "order": 7,
+        "disp": true,
+        "width": "7",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "685103101282510f",
+        "type": "firebase config",
+        "firebaseurl": "home-def-23f78-default-rtdb",
+        "loginType": "none"
+    },
+    {
+        "id": "e3e4e34933452fc1",
+        "type": "firebase config",
+        "firebaseurl": "home-def-23f78-default-rtdb",
+        "loginType": "none"
+    },
+    {
+        "id": "918884b2b3810d9f",
+        "type": "firebase config",
+        "firebaseurl": "home-def-23f78-default-rtdb",
+        "loginType": "none"
+    },
+    {
+        "id": "a7e46633e2d6ac87",
+        "type": "firebase config",
+        "firebaseurl": "home-def-23f78-default-rtdb",
+        "loginType": "none"
+    },
+    {
+        "id": "8e4b6064c5963bef",
+        "type": "firebase config",
+        "firebaseurl": "home-def-23f78-default-rtdb",
+        "loginType": "none"
+    },
+    {
+        "id": "8855e223471c4e15",
+        "type": "firebase config",
+        "firebaseurl": "home-def-23f78-default-rtdb",
+        "loginType": "none"
+    },
+    {
+        "id": "0c94463ce9eeb7cf",
+        "type": "firebase config",
+        "firebaseurl": "home-def-23f78-default-rtdb",
+        "loginType": "none"
+    },
+    {
+        "id": "d66e40c87c146cc6",
+        "type": "firebase config",
+        "firebaseurl": "home-def-23f78-default-rtdb",
+        "loginType": "none"
+    },
+    {
+        "id": "95f7749b3cbbe7c6",
+        "type": "firebase config",
+        "firebaseurl": "home-def-23f78-default-rtdb",
+        "loginType": "none"
+    },
+    {
+        "id": "ced7b1d8713dd941",
+        "type": "firebase config",
+        "firebaseurl": "home-def-23f78-default-rtdb",
+        "loginType": "none"
+    },
+    {
+        "id": "2c695d0ba5ea996d",
+        "type": "firebase config",
+        "firebaseurl": "home-def-23f78-default-rtdb",
+        "loginType": "none"
+    },
+    {
+        "id": "75734d472d2de59b",
+        "type": "firebase config",
+        "firebaseurl": "home-def-23f78-default-rtdb",
+        "loginType": "none"
+    },
+    {
+        "id": "7c46ce65fa013f2b",
+        "type": "ui_spacer",
+        "z": "272d1d5ad59c6eb2",
+        "name": "spacer",
+        "group": "fa6ff7795c5140cd",
+        "order": 3,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "bfe124f3f71049db",
+        "type": "ui_group",
+        "name": "Emergency Warnings Mode",
+        "tab": "a0cd6e42aa9265b7",
+        "order": 6,
+        "disp": true,
+        "width": "10",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "d812871661afb03b",
+        "type": "ui_switch",
+        "z": "272d1d5ad59c6eb2",
+        "g": "73d7fe3db8336338",
+        "name": "",
+        "label": "Keep your device always active",
+        "tooltip": "",
+        "group": "14f81daad27ed41e",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 370,
+        "y": 220,
+        "wires": [
+            [
+                "e374a3fbd824e847"
+            ]
+        ]
+    },
+    {
+        "id": "a95649d16f78705a",
+        "type": "inject",
+        "z": "272d1d5ad59c6eb2",
+        "g": "73d7fe3db8336338",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0",
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 150,
+        "y": 220,
+        "wires": [
+            [
+                "d812871661afb03b"
+            ]
+        ]
+    },
+    {
+        "id": "0fd28be11edd4516",
+        "type": "ui_template",
+        "z": "272d1d5ad59c6eb2",
+        "g": "159e31d851c8037d",
+        "group": "487f013b66baf76a",
+        "name": "Environment (Day/Night)",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "format": "<p style=\"padding-left: 8px\">Environment Status: <strong>{{msg.payload}}</strong></p>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 690,
+        "y": 500,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "8bd723765646c36b",
+        "type": "mqtt out",
+        "z": "272d1d5ad59c6eb2",
+        "g": "73d7fe3db8336338",
+        "name": "",
+        "topic": "/HomeDefender/ActivateDevice",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "1584b5a33644a100",
+        "x": 830,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "66c123d38a35fbc0",
+        "type": "mqtt in",
+        "z": "272d1d5ad59c6eb2",
+        "g": "159e31d851c8037d",
+        "name": "",
+        "topic": "/HomeDefender/Photoresistor",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "1584b5a33644a100",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 200,
+        "y": 500,
+        "wires": [
+            [
+                "b068944566987fdb"
+            ]
+        ]
+    },
+    {
+        "id": "b068944566987fdb",
+        "type": "function",
+        "z": "272d1d5ad59c6eb2",
+        "g": "159e31d851c8037d",
+        "name": "Day/Night",
+        "func": "var light = msg.payload || 0; // a number\n\nif (!light)\n    msg.payload = \"Is Night\";\nelse\n    msg.payload = \"Is Day\";\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 440,
+        "y": 500,
+        "wires": [
+            [
+                "0fd28be11edd4516"
+            ]
+        ]
+    },
+    {
+        "id": "e374a3fbd824e847",
+        "type": "switch",
+        "z": "272d1d5ad59c6eb2",
+        "g": "73d7fe3db8336338",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 590,
+        "y": 220,
+        "wires": [
+            [
+                "8bd723765646c36b",
+                "3918a6b34a5dd9dc"
+            ],
+            [
+                "7ac95963105d223e",
+                "492d8409281e8576"
+            ]
+        ]
+    },
+    {
+        "id": "7ac95963105d223e",
+        "type": "mqtt out",
+        "z": "272d1d5ad59c6eb2",
+        "g": "73d7fe3db8336338",
+        "name": "",
+        "topic": "/HomeDefender/ActivateDevice",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "1584b5a33644a100",
+        "x": 830,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "3918a6b34a5dd9dc",
+        "type": "change",
+        "z": "272d1d5ad59c6eb2",
+        "g": "73d7fe3db8336338",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"group\":{\"hide\":[\"Device_Controls_Time_Settings\"]}}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 800,
+        "y": 180,
+        "wires": [
+            [
+                "79769a455e74c436"
+            ]
+        ]
+    },
+    {
+        "id": "492d8409281e8576",
+        "type": "change",
+        "z": "272d1d5ad59c6eb2",
+        "g": "73d7fe3db8336338",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"group\":{\"show\":[\"Device_Controls_Time_Settings\"]}}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 800,
+        "y": 260,
+        "wires": [
+            [
+                "79769a455e74c436"
+            ]
+        ]
+    },
+    {
+        "id": "79769a455e74c436",
+        "type": "ui_ui_control",
+        "z": "272d1d5ad59c6eb2",
+        "g": "73d7fe3db8336338",
+        "name": "",
+        "events": "all",
+        "x": 980,
+        "y": 220,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "532e8c6c2f106594",
+        "type": "mqtt in",
+        "z": "272d1d5ad59c6eb2",
+        "g": "73d7fe3db8336338",
+        "name": "",
+        "topic": "/HomeDefender/activateSystemStatus",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "1584b5a33644a100",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 230,
+        "y": 400,
+        "wires": [
+            [
+                "de85406e61e12fdb"
+            ]
+        ]
+    },
+    {
+        "id": "d2af2807bb6f7a14",
+        "type": "mqtt in",
+        "z": "272d1d5ad59c6eb2",
+        "g": "a35fa70c6ba17a74",
+        "name": "",
+        "topic": "/HomeDefender/SystemMode",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "1584b5a33644a100",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 200,
+        "y": 600,
+        "wires": [
+            [
+                "61896c97bf1b8047"
+            ]
+        ]
+    },
+    {
+        "id": "61896c97bf1b8047",
+        "type": "function",
+        "z": "272d1d5ad59c6eb2",
+        "g": "a35fa70c6ba17a74",
+        "name": "SystemMode",
+        "func": "return msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 450,
+        "y": 600,
+        "wires": [
+            [
+                "338e1e4ddb8eaed7"
+            ]
+        ]
+    },
+    {
+        "id": "338e1e4ddb8eaed7",
+        "type": "ui_template",
+        "z": "272d1d5ad59c6eb2",
+        "g": "a35fa70c6ba17a74",
+        "group": "e4a6b5c792c3bef3",
+        "name": "System Mode",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "format": "<p style=\"padding-left: 8px\">{{msg.payload}}</p>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 660,
+        "y": 600,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d3f45375bd09fde3",
+        "type": "ui_toast",
+        "z": "272d1d5ad59c6eb2",
+        "g": "73d7fe3db8336338",
+        "position": "top right",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "Cancel",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "System Status Notification",
+        "x": 830,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "de85406e61e12fdb",
+        "type": "function",
+        "z": "272d1d5ad59c6eb2",
+        "g": "73d7fe3db8336338",
+        "name": "Show notification",
+        "func": "msg.topic = \"System Status\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 530,
+        "y": 400,
+        "wires": [
+            [
+                "d3f45375bd09fde3"
+            ]
+        ]
+    },
+    {
+        "id": "6e956fc472c9ba3e",
+        "type": "e-mail",
+        "z": "272d1d5ad59c6eb2",
+        "g": "77baf9b0c4401e19",
+        "server": "smtp.gmail.com",
+        "port": "465",
+        "authtype": "BASIC",
+        "saslformat": true,
+        "token": "oauth2Response.access_token",
+        "secure": true,
+        "tls": true,
+        "name": "",
+        "dname": "EmailNotification",
+        "x": 1330,
+        "y": 700,
+        "wires": []
+    },
+    {
+        "id": "d5dcc2e37c805bf9",
+        "type": "mqtt in",
+        "z": "272d1d5ad59c6eb2",
+        "g": "77baf9b0c4401e19",
+        "name": "",
+        "topic": "/HomeDefender/SendWarning",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "1584b5a33644a100",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 200,
+        "y": 700,
+        "wires": [
+            [
+                "b72a09760b65bb5c"
+            ]
+        ]
+    },
+    {
+        "id": "bf9cc5e6c54bece6",
+        "type": "function",
+        "z": "272d1d5ad59c6eb2",
+        "g": "77baf9b0c4401e19",
+        "name": "HandleEmail",
+        "func": "const { email, is_auth } = msg.payload;\n\nif (is_auth) {\n    msg.to = email;\n    msg.topic = \"Notifications from HomeDefender\";\n    msg.payload = \"You got warnings from the device HomeDefender. Please pay attention to your property now !!!\";\n}\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1110,
+        "y": 700,
+        "wires": [
+            [
+                "6e956fc472c9ba3e"
+            ]
+        ]
+    },
+    {
+        "id": "a01d12c79b24cefa",
+        "type": "firebase.once",
+        "z": "272d1d5ad59c6eb2",
+        "g": "77baf9b0c4401e19",
+        "name": "",
+        "firebaseconfig": "685103101282510f",
+        "childpath": "/User",
+        "repeatifnull": false,
+        "eventType": "value",
+        "queries": [],
+        "x": 740,
+        "y": 700,
+        "wires": [
+            [
+                "bf9cc5e6c54bece6"
+            ]
+        ]
+    },
+    {
+        "id": "b72a09760b65bb5c",
+        "type": "switch",
+        "z": "272d1d5ad59c6eb2",
+        "g": "77baf9b0c4401e19",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "1",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 410,
+        "y": 700,
+        "wires": [
+            [
+                "a01d12c79b24cefa"
+            ]
+        ]
+    },
+    {
+        "id": "5af0eeca3e58d679",
+        "type": "comment",
+        "z": "272d1d5ad59c6eb2",
+        "g": "77baf9b0c4401e19",
+        "name": "App Password",
+        "info": "bctd fofg ljby azvu",
+        "x": 1070,
+        "y": 780,
+        "wires": []
+    },
+    {
+        "id": "c576156fe30af0c8",
+        "type": "mqtt in",
+        "z": "272d1d5ad59c6eb2",
+        "g": "77baf9b0c4401e19",
+        "name": "",
+        "topic": "\"/HomeDefender/EmailNotification\"",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "1584b5a33644a100",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 220,
+        "y": 780,
+        "wires": [
+            [
+                "47e930693e21f1a7"
+            ]
+        ]
+    },
+    {
+        "id": "47e930693e21f1a7",
+        "type": "function",
+        "z": "272d1d5ad59c6eb2",
+        "g": "77baf9b0c4401e19",
+        "name": "Email Warnings Notification",
+        "func": "msg.topic = \"Email Warnings\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 540,
+        "y": 780,
+        "wires": [
+            [
+                "5e0ae8b18471726c"
+            ]
+        ]
+    },
+    {
+        "id": "5e0ae8b18471726c",
+        "type": "ui_toast",
+        "z": "272d1d5ad59c6eb2",
+        "g": "77baf9b0c4401e19",
+        "position": "top right",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "Email Show Notification",
+        "x": 830,
+        "y": 780,
+        "wires": []
+    },
+    {
+        "id": "cb59de5a2783580b",
+        "type": "ui_time_scheduler",
+        "z": "272d1d5ad59c6eb2",
+        "g": "5e886eeda963b335",
+        "group": "fe85141e82259149",
+        "name": "",
+        "startDay": 0,
+        "refresh": 60,
+        "devices": [
+            "Your device"
+        ],
+        "singleOff": false,
+        "onlySendChange": true,
+        "customPayload": false,
+        "eventMode": false,
+        "eventOptions": [],
+        "sendTopic": false,
+        "lat": "",
+        "lon": "",
+        "customContextStore": "",
+        "outputs": 2,
+        "order": 1,
+        "width": 10,
+        "height": 10,
+        "x": 610,
+        "y": 980,
+        "wires": [
+            [
+                "d225da1cc47eff3b"
+            ],
+            [
+                "41138a861d240968"
+            ]
+        ]
+    },
+    {
+        "id": "d225da1cc47eff3b",
+        "type": "firebase modify",
+        "z": "272d1d5ad59c6eb2",
+        "g": "5e886eeda963b335",
+        "name": "",
+        "firebaseconfig": "4245cfa1c8d5610c",
+        "childpath": "/Activity",
+        "method": "update",
+        "value": "msg.payload",
+        "priority": "msg.priority",
+        "x": 980,
+        "y": 880,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a1fba48285def3e0",
+        "type": "firebase.on",
+        "z": "272d1d5ad59c6eb2",
+        "g": "5e886eeda963b335",
+        "name": "",
+        "firebaseconfig": "4c01bf070e4f8c6e",
+        "childpath": "/Activity",
+        "atStart": true,
+        "eventType": "value",
+        "queries": [],
+        "x": 330,
+        "y": 900,
+        "wires": [
+            [
+                "e9a1501d7531aeb1"
+            ]
+        ]
+    },
+    {
+        "id": "850f68cb64e15d53",
+        "type": "function",
+        "z": "272d1d5ad59c6eb2",
+        "g": "5e886eeda963b335",
+        "name": "Preprocessing Schedule",
+        "func": "var obj = await msg.payload;\n\nobj = JSON.stringify(obj);\nmsg.payload = obj;\nmsg.topic = \"update\"; \n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 390,
+        "y": 1000,
+        "wires": [
+            [
+                "cb59de5a2783580b"
+            ]
+        ]
+    },
+    {
+        "id": "41138a861d240968",
+        "type": "switch",
+        "z": "272d1d5ad59c6eb2",
+        "g": "5e886eeda963b335",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 790,
+        "y": 1000,
+        "wires": [
+            [
+                "2e36a4393b8ab8f5"
+            ],
+            [
+                "6f4036228e1e435b"
+            ]
+        ]
+    },
+    {
+        "id": "2e36a4393b8ab8f5",
+        "type": "mqtt out",
+        "z": "272d1d5ad59c6eb2",
+        "g": "5e886eeda963b335",
+        "name": "",
+        "topic": "/HomeDefender/ActivateDeviceScheduler",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "1584b5a33644a100",
+        "x": 1080,
+        "y": 940,
+        "wires": []
+    },
+    {
+        "id": "6f4036228e1e435b",
+        "type": "mqtt out",
+        "z": "272d1d5ad59c6eb2",
+        "g": "5e886eeda963b335",
+        "name": "",
+        "topic": "/HomeDefender/ActivateDeviceScheduler",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "1584b5a33644a100",
+        "x": 1080,
+        "y": 1020,
+        "wires": []
+    },
+    {
+        "id": "e9a1501d7531aeb1",
+        "type": "switch",
+        "z": "272d1d5ad59c6eb2",
+        "g": "5e886eeda963b335",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "nnull"
+            },
+            {
+                "t": "null"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 170,
+        "y": 1020,
+        "wires": [
+            [
+                "850f68cb64e15d53"
+            ],
+            [
+                "fd357158f47c6efc"
+            ]
+        ]
+    },
+    {
+        "id": "fd357158f47c6efc",
+        "type": "function",
+        "z": "272d1d5ad59c6eb2",
+        "g": "5e886eeda963b335",
+        "name": "Handle Empty Scheduler",
+        "func": "msg.payload = false;\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 390,
+        "y": 1040,
+        "wires": [
+            [
+                "191434835243be39"
+            ]
+        ]
+    },
+    {
+        "id": "191434835243be39",
+        "type": "mqtt out",
+        "z": "272d1d5ad59c6eb2",
+        "g": "5e886eeda963b335",
+        "name": "",
+        "topic": "/HomeDefender/ActivateDeviceScheduler",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "1584b5a33644a100",
+        "x": 700,
+        "y": 1060,
+        "wires": []
+    },
+    {
+        "id": "2511751344d01680",
+        "type": "ui_switch",
+        "z": "272d1d5ad59c6eb2",
+        "g": "d8db2c52dc728225",
+        "name": "",
+        "label": "FORCE ALERT RIGHT NOW",
+        "tooltip": "",
+        "group": "bfe124f3f71049db",
+        "order": 7,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 400,
+        "y": 1280,
+        "wires": [
+            [
+                "704161f1d79d6296"
+            ]
+        ]
+    },
+    {
+        "id": "b6c83eb08a8935ea",
+        "type": "ui_template",
+        "z": "272d1d5ad59c6eb2",
+        "g": "d8db2c52dc728225",
+        "group": "bfe124f3f71049db",
+        "name": "Alert Mode",
+        "order": 8,
+        "width": "0",
+        "height": "0",
+        "format": "<p style=\"font-size:16px; color: #333;\">\n    Turn on <strong>ALERT MODE</strong> immediately regardless warning mode conditions.\n</p>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 170,
+        "y": 1180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "704161f1d79d6296",
+        "type": "mqtt out",
+        "z": "272d1d5ad59c6eb2",
+        "g": "d8db2c52dc728225",
+        "name": "",
+        "topic": "/HomeDefender/ForceAlertMode",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "1584b5a33644a100",
+        "x": 690,
+        "y": 1280,
+        "wires": []
+    },
+    {
+        "id": "b1d18e945e164c9f",
+        "type": "inject",
+        "z": "272d1d5ad59c6eb2",
+        "g": "d8db2c52dc728225",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "false",
+        "payloadType": "bool",
+        "x": 150,
+        "y": 1280,
+        "wires": [
+            [
+                "2511751344d01680"
+            ]
+        ]
+    },
+    {
+        "id": "cd12545869b7c055",
+        "type": "switch",
+        "z": "272d1d5ad59c6eb2",
+        "g": "d8db2c52dc728225",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 510,
+        "y": 1360,
+        "wires": [
+            [
+                "1feb733623af96cc"
+            ],
+            [
+                "5e21425e79b55aa8"
+            ]
+        ]
+    },
+    {
+        "id": "263452e2a54aa5d3",
+        "type": "mqtt in",
+        "z": "272d1d5ad59c6eb2",
+        "g": "d8db2c52dc728225",
+        "name": "",
+        "topic": "/HomeDefender/ForceAlertNotification",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "1584b5a33644a100",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 250,
+        "y": 1360,
+        "wires": [
+            [
+                "cd12545869b7c055"
+            ]
+        ]
+    },
+    {
+        "id": "1feb733623af96cc",
+        "type": "function",
+        "z": "272d1d5ad59c6eb2",
+        "g": "d8db2c52dc728225",
+        "name": "Force Alert Notification",
+        "func": "msg.topic = \"Force Alert Mode\";\nmsg.payload = \"Force Alert is TURNED ON !!!\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 720,
+        "y": 1340,
+        "wires": [
+            [
+                "6bd2bedbb6a77d18"
+            ]
+        ]
+    },
+    {
+        "id": "5e21425e79b55aa8",
+        "type": "function",
+        "z": "272d1d5ad59c6eb2",
+        "g": "d8db2c52dc728225",
+        "name": "Force Alert Notification",
+        "func": "msg.topic = \"Force Alert Mode\";\nmsg.payload = \"Force Alert is TURNED OFF !!!\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 720,
+        "y": 1400,
+        "wires": [
+            [
+                "6bd2bedbb6a77d18"
+            ]
+        ]
+    },
+    {
+        "id": "6bd2bedbb6a77d18",
+        "type": "ui_toast",
+        "z": "272d1d5ad59c6eb2",
+        "g": "d8db2c52dc728225",
+        "position": "top right",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "",
+        "x": 940,
+        "y": 1380,
+        "wires": []
+    },
+    {
+        "id": "6720a2a72adbea88",
+        "type": "comment",
+        "z": "272d1d5ad59c6eb2",
+        "g": "d8db2c52dc728225",
+        "name": "Alert Mode Comment",
+        "info": "The task of this group is doing the Alert Mode.",
+        "x": 380,
+        "y": 1200,
+        "wires": []
+    },
+    {
+        "id": "2b022c597c7e7198",
+        "type": "comment",
+        "z": "272d1d5ad59c6eb2",
+        "g": "73d7fe3db8336338",
+        "name": "Activate / Deactivate Mode",
+        "info": "",
+        "x": 190,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "3eb9b708f26ae8e9",
+        "type": "comment",
+        "z": "272d1d5ad59c6eb2",
+        "g": "159e31d851c8037d",
+        "name": "Environment Comments",
+        "info": "",
+        "x": 960,
+        "y": 500,
+        "wires": []
+    },
+    {
+        "id": "f11620bca42e485c",
+        "type": "comment",
+        "z": "272d1d5ad59c6eb2",
+        "g": "a35fa70c6ba17a74",
+        "name": "System Mode Comments",
+        "info": "",
+        "x": 890,
+        "y": 600,
+        "wires": []
+    },
+    {
+        "id": "3f9e169302554dc0",
+        "type": "change",
+        "z": "d2f490df54b2a493",
+        "g": "9a2f254add7a0917",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"group\":{\"show\":[\"Live_Video_Take_Photos\"]}}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 660,
+        "y": 180,
+        "wires": [
+            [
+                "3e5162b39caceed9"
+            ]
+        ]
+    },
+    {
+        "id": "61ec7b8a1a06cbee",
+        "type": "switch",
+        "z": "d2f490df54b2a493",
+        "g": "9a2f254add7a0917",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 390,
+        "y": 220,
+        "wires": [
+            [
+                "3f9e169302554dc0",
+                "a7f73c5bc3430a85",
+                "d1b8f428b3c3b95b"
+            ],
+            [
+                "e6302bb39ad2dd0a",
+                "a7814d988d13e490",
+                "55ca00c4cbd9f5ef"
+            ]
+        ]
+    },
+    {
+        "id": "3e5162b39caceed9",
+        "type": "ui_ui_control",
+        "z": "d2f490df54b2a493",
+        "g": "9a2f254add7a0917",
+        "name": "",
+        "events": "all",
+        "x": 860,
+        "y": 220,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c0813e9a31085fae",
+        "type": "inject",
+        "z": "d2f490df54b2a493",
+        "g": "9a2f254add7a0917",
+        "name": "GetStream",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 200,
+        "y": 140,
+        "wires": [
+            [
+                "61ec7b8a1a06cbee"
+            ]
+        ]
+    },
+    {
+        "id": "1a915d49f92fad1a",
+        "type": "inject",
+        "z": "d2f490df54b2a493",
+        "g": "9a2f254add7a0917",
+        "name": "StopStream",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "false",
+        "payloadType": "bool",
+        "x": 210,
+        "y": 320,
+        "wires": [
+            [
+                "61ec7b8a1a06cbee"
+            ]
+        ]
+    },
+    {
+        "id": "a2f3596657030f72",
+        "type": "ui_button",
+        "z": "d2f490df54b2a493",
+        "g": "9a2f254add7a0917",
+        "name": "",
+        "group": "da2955ab1e894c96",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Get stream",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "topic": "",
+        "topicType": "str",
+        "x": 190,
+        "y": 200,
+        "wires": [
+            [
+                "61ec7b8a1a06cbee"
+            ]
+        ]
+    },
+    {
+        "id": "949da4121bd1db33",
+        "type": "ui_button",
+        "z": "d2f490df54b2a493",
+        "g": "9a2f254add7a0917",
+        "name": "",
+        "group": "da2955ab1e894c96",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Stop stream",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "false",
+        "payloadType": "bool",
+        "topic": "",
+        "topicType": "str",
+        "x": 190,
+        "y": 260,
+        "wires": [
+            [
+                "61ec7b8a1a06cbee"
+            ]
+        ]
+    },
+    {
+        "id": "e6302bb39ad2dd0a",
+        "type": "change",
+        "z": "d2f490df54b2a493",
+        "g": "9a2f254add7a0917",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"group\":{\"hide\":[\"Live_Video_Take_Photos\"]}}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 660,
+        "y": 240,
+        "wires": [
+            [
+                "3e5162b39caceed9"
+            ]
+        ]
+    },
+    {
+        "id": "a7f73c5bc3430a85",
+        "type": "mqtt out",
+        "z": "d2f490df54b2a493",
+        "g": "9a2f254add7a0917",
+        "name": "",
+        "topic": "/HomeDefender/ActiveStreamingVideo",
+        "qos": "2",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "1584b5a33644a100",
+        "x": 670,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "a7814d988d13e490",
+        "type": "mqtt out",
+        "z": "d2f490df54b2a493",
+        "g": "9a2f254add7a0917",
+        "name": "",
+        "topic": "/HomeDefender/ActiveStreamingVideo",
+        "qos": "2",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "1584b5a33644a100",
+        "x": 650,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "b9e5db320793024b",
+        "type": "mqtt in",
+        "z": "d2f490df54b2a493",
+        "name": "",
+        "topic": "/HomeDefender/ActiveStreamingVideo",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "1584b5a33644a100",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 2230,
+        "y": 440,
+        "wires": [
+            [
+                "102ff6b5515567ab"
+            ]
+        ]
+    },
+    {
+        "id": "102ff6b5515567ab",
+        "type": "switch",
+        "z": "d2f490df54b2a493",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1970,
+        "y": 240,
+        "wires": [
+            [
+                "dc612da6d2188714"
+            ],
+            [
+                "9ffddd4598da9e70"
+            ]
+        ]
+    },
+    {
+        "id": "db34ccbff525c9a1",
+        "type": "ui_toast",
+        "z": "d2f490df54b2a493",
+        "position": "top right",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "Cancel",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "",
+        "x": 2460,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "dc612da6d2188714",
+        "type": "function",
+        "z": "d2f490df54b2a493",
+        "name": "Show notification",
+        "func": "msg.topic = \"Live Video Mode\";\nmsg.payload = \"Start Streaming Video\";\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2250,
+        "y": 220,
+        "wires": [
+            [
+                "db34ccbff525c9a1"
+            ]
+        ]
+    },
+    {
+        "id": "9ffddd4598da9e70",
+        "type": "function",
+        "z": "d2f490df54b2a493",
+        "name": "Show notification",
+        "func": "msg.topic = \"Live Video Mode\";\nmsg.payload = \"Stop Streaming Video\";\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2250,
+        "y": 320,
+        "wires": [
+            [
+                "db34ccbff525c9a1"
+            ]
+        ]
+    },
+    {
+        "id": "92081275cac84eb7",
+        "type": "mqtt in",
+        "z": "d2f490df54b2a493",
+        "g": "ca3b0536ba4a18b8",
+        "name": "",
+        "topic": "/HomeDefender/SystemWarning",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "1584b5a33644a100",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 250,
+        "y": 620,
+        "wires": [
+            [
+                "0f436c62cc86c64c",
+                "127c0cf817d2448e"
+            ]
+        ]
+    },
+    {
+        "id": "d1b8f428b3c3b95b",
+        "type": "change",
+        "z": "d2f490df54b2a493",
+        "g": "9a2f254add7a0917",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "start",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "url",
+                "pt": "msg",
+                "to": "http://192.168.88.210/mjpeg/1",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 660,
+        "y": 300,
+        "wires": [
+            [
+                "9e947ebd28c84566"
+            ]
+        ]
+    },
+    {
+        "id": "55ca00c4cbd9f5ef",
+        "type": "change",
+        "z": "d2f490df54b2a493",
+        "g": "9a2f254add7a0917",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "stop",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "url",
+                "pt": "msg",
+                "to": "https://bacninhmedia.com/wp-content/uploads/2019/08/loi-NO-VIDEO.jpg",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 660,
+        "y": 360,
+        "wires": [
+            [
+                "9e947ebd28c84566"
+            ]
+        ]
+    },
+    {
+        "id": "9e947ebd28c84566",
+        "type": "ui_iframe",
+        "z": "d2f490df54b2a493",
+        "g": "9a2f254add7a0917",
+        "group": "da2955ab1e894c96",
+        "name": "Live Video",
+        "order": 4,
+        "width": "12",
+        "height": "9",
+        "url": "https://bacninhmedia.com/wp-content/uploads/2019/08/loi-NO-VIDEO.jpg",
+        "origin": "https://bacninhmedia.com/wp-content/uploads/2019/08/loi-NO-VIDEO.jpg",
+        "scale": "100",
+        "x": 870,
+        "y": 340,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0f2b2ceca94c8d99",
+        "type": "base64",
+        "z": "d2f490df54b2a493",
+        "g": "aa5eafc940028c9d",
+        "name": "",
+        "action": "",
+        "property": "payload",
+        "x": 1240,
+        "y": 860,
+        "wires": [
+            [
+                "32573abd5bea7341",
+                "073c3ddfcecd7329"
+            ]
+        ]
+    },
+    {
+        "id": "32573abd5bea7341",
+        "type": "template",
+        "z": "d2f490df54b2a493",
+        "g": "aa5eafc940028c9d",
+        "name": "",
+        "field": "payload",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "<img width=\"320px\" height=\"240px\" src=\"data:image/jpg;base64,{{{payload}}}\">",
+        "output": "str",
+        "x": 1420,
+        "y": 820,
+        "wires": [
+            [
+                "c2c213be9ced180a"
+            ]
+        ]
+    },
+    {
+        "id": "c2c213be9ced180a",
+        "type": "ui_template",
+        "z": "d2f490df54b2a493",
+        "g": "aa5eafc940028c9d",
+        "group": "fa6ff7795c5140cd",
+        "name": "Dashboard IMG",
+        "order": 5,
+        "width": "7",
+        "height": "5",
+        "format": "<div ng-bind-html=\"msg.payload\"></div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 1640,
+        "y": 820,
+        "wires": [
+            []
+        ],
+        "icon": "node-red-contrib-image-tools/image.png"
+    },
+    {
+        "id": "b8002dc78a04c345",
+        "type": "mqtt in",
+        "z": "d2f490df54b2a493",
+        "g": "9a2f254add7a0917",
+        "name": "",
+        "topic": "/HomeDefender/GetLinkStream",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "1584b5a33644a100",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 350,
+        "y": 480,
+        "wires": [
+            [
+                "141a37d20c479883"
+            ]
+        ]
+    },
+    {
+        "id": "1b51b3ecb6a6093b",
+        "type": "ui_switch",
+        "z": "d2f490df54b2a493",
+        "g": "aa5eafc940028c9d",
+        "name": "",
+        "label": "AUTO CAPTURE PHOTOS",
+        "tooltip": "",
+        "group": "fa6ff7795c5140cd",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 400,
+        "y": 880,
+        "wires": [
+            [
+                "bca2a81e504e3e03"
+            ]
+        ]
+    },
+    {
+        "id": "86d8aeed839643ad",
+        "type": "ui_template",
+        "z": "d2f490df54b2a493",
+        "g": "aa5eafc940028c9d",
+        "group": "fa6ff7795c5140cd",
+        "name": "Auto Capture GuideLine",
+        "order": 3,
+        "width": "7",
+        "height": "2",
+        "format": "<p style=\"font-size:16px; color: #333;\">\n    Automatically take a picture if the object is in a dangerous area.\n</p>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 250,
+        "y": 740,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "141a37d20c479883",
+        "type": "debug",
+        "z": "d2f490df54b2a493",
+        "g": "9a2f254add7a0917",
+        "name": "GetStringLink",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 640,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "0f436c62cc86c64c",
+        "type": "function",
+        "z": "d2f490df54b2a493",
+        "g": "ca3b0536ba4a18b8",
+        "name": "System Warnings Function",
+        "func": "msg.topic = \"System Warning\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 620,
+        "y": 580,
+        "wires": [
+            [
+                "f10e664fb46e0da9"
+            ]
+        ]
+    },
+    {
+        "id": "f10e664fb46e0da9",
+        "type": "ui_toast",
+        "z": "d2f490df54b2a493",
+        "g": "ca3b0536ba4a18b8",
+        "position": "top right",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "System Warnings Notification",
+        "x": 900,
+        "y": 580,
+        "wires": []
+    },
+    {
+        "id": "127c0cf817d2448e",
+        "type": "debug",
+        "z": "d2f490df54b2a493",
+        "g": "ca3b0536ba4a18b8",
+        "name": "System Warning",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 580,
+        "y": 640,
+        "wires": []
+    },
+    {
+        "id": "bca2a81e504e3e03",
+        "type": "switch",
+        "z": "d2f490df54b2a493",
+        "g": "aa5eafc940028c9d",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 630,
+        "y": 860,
+        "wires": [
+            [
+                "ca553caa8d143919"
+            ],
+            [
+                "cfc39843f37370be"
+            ]
+        ]
+    },
+    {
+        "id": "ca553caa8d143919",
+        "type": "change",
+        "z": "d2f490df54b2a493",
+        "g": "aa5eafc940028c9d",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "start",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "url",
+                "pt": "msg",
+                "to": "http://192.168.88.210/mjpeg/1",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 800,
+        "y": 820,
+        "wires": [
+            [
+                "37f6dc101f86fd4e"
+            ]
+        ]
+    },
+    {
+        "id": "cfc39843f37370be",
+        "type": "change",
+        "z": "d2f490df54b2a493",
+        "g": "aa5eafc940028c9d",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "stop",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "url",
+                "pt": "msg",
+                "to": "null",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 800,
+        "y": 900,
+        "wires": [
+            [
+                "37f6dc101f86fd4e"
+            ]
+        ]
+    },
+    {
+        "id": "c3657c0f0c150dbb",
+        "type": "ui_template",
+        "z": "d2f490df54b2a493",
+        "g": "aa5eafc940028c9d",
+        "group": "fa6ff7795c5140cd",
+        "name": "Auto Capture Titles",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "format": "<div style=\"text-align: center;\">\n    <span style=\"font-weight: bold; font-style: italic;\">\n        AUTO CAPTURE PHOTOS\n    </span>\n</div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 230,
+        "y": 800,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "52b2534581a3ddca",
+        "type": "ui_template",
+        "z": "d2f490df54b2a493",
+        "g": "aa5eafc940028c9d",
+        "group": "fa6ff7795c5140cd",
+        "name": "Auto Photos Titles",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "format": "<div style=\"text-align: center;\">\n    <span style=\"font-weight: bold;\">\n        PHOTOS\n    </span>\n</div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 230,
+        "y": 960,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "073c3ddfcecd7329",
+        "type": "function",
+        "z": "d2f490df54b2a493",
+        "g": "aa5eafc940028c9d",
+        "name": "Storage Database",
+        "func": "var image_obj = msg.payload;\n\nvar date = new Date();\n\n\ndate = date.toString();\n\n\nmsg.payload = {\n\n    key: date,\n\n    value: image_obj\n\n}\n\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1450,
+        "y": 880,
+        "wires": [
+            [
+                "5dfac89a85d07973"
+            ]
+        ]
+    },
+    {
+        "id": "5dfac89a85d07973",
+        "type": "firebase modify",
+        "z": "d2f490df54b2a493",
+        "g": "aa5eafc940028c9d",
+        "name": "",
+        "firebaseconfig": "ced7b1d8713dd941",
+        "childpath": "/Image",
+        "method": "push",
+        "value": "msg.payload",
+        "priority": "msg.priority",
+        "x": 1790,
+        "y": 880,
+        "wires": [
+            [
+                "8edc66c7b5771c21"
+            ]
+        ]
+    },
+    {
+        "id": "37f6dc101f86fd4e",
+        "type": "mjpg-consumer",
+        "z": "d2f490df54b2a493",
+        "g": "aa5eafc940028c9d",
+        "name": "MjpgConsumer/ ESP32",
+        "stream": "http://192.168.88.210/mjpeg/1",
+        "interval": "3",
+        "x": 1030,
+        "y": 860,
+        "wires": [
+            [
+                "0f2b2ceca94c8d99"
+            ]
+        ]
+    },
+    {
+        "id": "8edc66c7b5771c21",
+        "type": "function",
+        "z": "d2f490df54b2a493",
+        "g": "aa5eafc940028c9d",
+        "name": "Check Empty Images",
+        "func": "function isNotEmpty(obj) { \n    return obj !== null && \n    typeof obj === 'object' && \n    Object.keys(obj).length > 0; \n}\n\nvar valid = isNotEmpty(msg.payload);\nmsg.payload = valid\nreturn msg",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2180,
+        "y": 900,
+        "wires": [
+            [
+                "260d358e8868ddfa"
+            ]
+        ]
+    },
+    {
+        "id": "260d358e8868ddfa",
+        "type": "mqtt out",
+        "z": "d2f490df54b2a493",
+        "g": "aa5eafc940028c9d",
+        "name": "",
+        "topic": "/HomeDefender/GetAutoImages",
+        "qos": "2",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "1584b5a33644a100",
+        "x": 2450,
+        "y": 900,
+        "wires": []
+    },
+    {
+        "id": "f6d2e4c0d564575c",
+        "type": "comment",
+        "z": "d2f490df54b2a493",
+        "g": "9a2f254add7a0917",
+        "name": "Live Video Comment",
+        "info": "This group is implemented the function of Live Streaming Video.",
+        "x": 210,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "fd7b07551bb19903",
+        "type": "comment",
+        "z": "d2f490df54b2a493",
+        "g": "ca3b0536ba4a18b8",
+        "name": "System Warnings Comment",
+        "info": "This group is implemented by publishing the information of warnings.",
+        "x": 240,
+        "y": 580,
+        "wires": []
+    },
+    {
+        "id": "028a9a565748fa56",
+        "type": "ui_template",
+        "z": "d2f490df54b2a493",
+        "g": "9a2f254add7a0917",
+        "group": "da2955ab1e894c96",
+        "name": "Live Stream Video Titiles",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "format": "<div style=\"text-align: center;\">\n    <span style=\"font-weight: bold; font-style: italic;\">\n        LIVE STREAM VIDEO\n    </span>\n</div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 330,
+        "y": 420,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "3815795b80661ce8",
+        "type": "inject",
+        "z": "d2f490df54b2a493",
+        "g": "18c9c10cd8dcb964",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 200,
+        "y": 1140,
+        "wires": [
+            [
+                "35bb284e600b2a0c"
+            ]
+        ]
+    },
+    {
+        "id": "35bb284e600b2a0c",
+        "type": "ui_button",
+        "z": "d2f490df54b2a493",
+        "g": "18c9c10cd8dcb964",
+        "name": "",
+        "group": "ae4cca4fb9afba6f",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Take a photo",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 370,
+        "y": 1140,
+        "wires": [
+            [
+                "799cb588bc2f8f38",
+                "aa72a612c92420ae"
+            ]
+        ]
+    },
+    {
+        "id": "799cb588bc2f8f38",
+        "type": "http request",
+        "z": "d2f490df54b2a493",
+        "g": "18c9c10cd8dcb964",
+        "name": "Image Request",
+        "method": "GET",
+        "ret": "bin",
+        "paytoqs": "ignore",
+        "url": "http://192.168.88.210/jpg",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 560,
+        "y": 1100,
+        "wires": [
+            [
+                "42cc4b7d46fe9516"
+            ]
+        ]
+    },
+    {
+        "id": "aa72a612c92420ae",
+        "type": "mqtt out",
+        "z": "d2f490df54b2a493",
+        "g": "18c9c10cd8dcb964",
+        "name": "",
+        "topic": "/HomeDefender/TakeAPhoto",
+        "qos": "2",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "1584b5a33644a100",
+        "x": 600,
+        "y": 1200,
+        "wires": []
+    },
+    {
+        "id": "42cc4b7d46fe9516",
+        "type": "function",
+        "z": "d2f490df54b2a493",
+        "g": "18c9c10cd8dcb964",
+        "name": "Convert Image",
+        "func": "if (Buffer.isBuffer(msg.payload)) {\n    node.warn(\"Hình ảnh đã được tải về dưới dạng Buffer!\");\n}\nmsg.payload = msg.payload.toString('base64');\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 780,
+        "y": 1100,
+        "wires": [
+            [
+                "9b24838a42d61dc1",
+                "09fc825053141e52",
+                "c691300cb6926218"
+            ]
+        ]
+    },
+    {
+        "id": "9b24838a42d61dc1",
+        "type": "debug",
+        "z": "d2f490df54b2a493",
+        "g": "18c9c10cd8dcb964",
+        "name": "Covert Image (Take A Photo) Debug",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1090,
+        "y": 1060,
+        "wires": []
+    },
+    {
+        "id": "09fc825053141e52",
+        "type": "function",
+        "z": "d2f490df54b2a493",
+        "g": "18c9c10cd8dcb964",
+        "name": "Storage Database",
+        "func": "var image_obj = msg.payload;\n\nvar date = new Date();\n\n\ndate = date.toString();\n\n\nmsg.payload = {\n\n    key: date,\n\n    value: image_obj\n\n}\n\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1030,
+        "y": 1120,
+        "wires": [
+            [
+                "249e493bac1f318d",
+                "ee6e2063a56ba6ce"
+            ]
+        ]
+    },
+    {
+        "id": "c691300cb6926218",
+        "type": "ui_template",
+        "z": "d2f490df54b2a493",
+        "g": "18c9c10cd8dcb964",
+        "group": "ae4cca4fb9afba6f",
+        "name": "Photo Display",
+        "order": 1,
+        "width": "12",
+        "height": "9",
+        "format": "<img src=\"data:image/jpeg;base64,{{msg.payload}}\" style=\"max-width:100%;\">",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 1020,
+        "y": 1180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "249e493bac1f318d",
+        "type": "debug",
+        "z": "d2f490df54b2a493",
+        "g": "18c9c10cd8dcb964",
+        "name": "Storage Database Debug",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1310,
+        "y": 1100,
+        "wires": []
+    },
+    {
+        "id": "ee6e2063a56ba6ce",
+        "type": "firebase modify",
+        "z": "d2f490df54b2a493",
+        "g": "18c9c10cd8dcb964",
+        "name": "",
+        "firebaseconfig": "ced7b1d8713dd941",
+        "childpath": "/Image",
+        "method": "push",
+        "value": "msg.payload",
+        "priority": "msg.priority",
+        "x": 1430,
+        "y": 1160,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c8652aafd53cf5b5",
+        "type": "mqtt in",
+        "z": "d2f490df54b2a493",
+        "g": "18c9c10cd8dcb964",
+        "name": "",
+        "topic": "/HomeDefender/TakeAPhotoNotification",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "1584b5a33644a100",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 290,
+        "y": 1280,
+        "wires": [
+            [
+                "25f173b39bfc7852"
+            ]
+        ]
+    },
+    {
+        "id": "25f173b39bfc7852",
+        "type": "function",
+        "z": "d2f490df54b2a493",
+        "g": "18c9c10cd8dcb964",
+        "name": "Take A Photo Function",
+        "func": "msg.topic = \"Take A Photo Notification\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 600,
+        "y": 1280,
+        "wires": [
+            [
+                "646b0d7bd6ec779b"
+            ]
+        ]
+    },
+    {
+        "id": "646b0d7bd6ec779b",
+        "type": "ui_toast",
+        "z": "d2f490df54b2a493",
+        "g": "18c9c10cd8dcb964",
+        "position": "top right",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "Take A Photo Notification",
+        "x": 870,
+        "y": 1280,
+        "wires": []
+    },
+    {
+        "id": "dffb4e8ea1824ea0",
+        "type": "comment",
+        "z": "d2f490df54b2a493",
+        "g": "aa5eafc940028c9d",
+        "name": "Auto Capture Photos Comment",
+        "info": "This task of this group is auto capture images.",
+        "x": 470,
+        "y": 820,
+        "wires": []
+    },
+    {
+        "id": "bbee5c963a064bd9",
+        "type": "comment",
+        "z": "d2f490df54b2a493",
+        "g": "18c9c10cd8dcb964",
+        "name": "Take A Photo Comment",
+        "info": "The task of this group is when you live stream the video, you can take a picture from camera.",
+        "x": 240,
+        "y": 1100,
+        "wires": []
+    },
+    {
+        "id": "968c4a3d5ffb6692",
+        "type": "inject",
+        "z": "d2f490df54b2a493",
+        "g": "aa5eafc940028c9d",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "false",
+        "payloadType": "bool",
+        "x": 190,
+        "y": 880,
+        "wires": [
+            [
+                "1b51b3ecb6a6093b"
+            ]
+        ]
+    },
+    {
+        "id": "01a3dcdb8efa7df4",
+        "type": "ui_template",
+        "z": "d2f490df54b2a493",
+        "g": "fec5262b965ad4ec",
+        "group": "fa6ff7795c5140cd",
+        "name": "Wifi status",
+        "order": 10,
+        "width": "0",
+        "height": "0",
+        "format": "<p style=\"font-size:16px; color: #333;\">\n    Your WiFi status is <strong>{{msg.payload}}</strong>\n</p>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 950,
+        "y": 1400,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "6e1901b26d78a17e",
+        "type": "mqtt in",
+        "z": "d2f490df54b2a493",
+        "g": "fec5262b965ad4ec",
+        "name": "",
+        "topic": "/HomeDefender/WiFiStatus",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "1584b5a33644a100",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 230,
+        "y": 1440,
+        "wires": [
+            [
+                "a69c134308afdc61",
+                "a0f45157a80e7b4e"
+            ]
+        ]
+    },
+    {
+        "id": "a69c134308afdc61",
+        "type": "switch",
+        "z": "d2f490df54b2a493",
+        "g": "fec5262b965ad4ec",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 450,
+        "y": 1400,
+        "wires": [
+            [
+                "70d342c092cb1b31",
+                "79a1e7c409fa05d0"
+            ],
+            [
+                "b7de9f2bedea04d1",
+                "2b592e5fda0a316c"
+            ]
+        ]
+    },
+    {
+        "id": "70d342c092cb1b31",
+        "type": "function",
+        "z": "d2f490df54b2a493",
+        "g": "fec5262b965ad4ec",
+        "name": "WiFi Status",
+        "func": "msg.payload = \"TURNED ON\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 750,
+        "y": 1380,
+        "wires": [
+            [
+                "01a3dcdb8efa7df4"
+            ]
+        ]
+    },
+    {
+        "id": "b7de9f2bedea04d1",
+        "type": "function",
+        "z": "d2f490df54b2a493",
+        "g": "fec5262b965ad4ec",
+        "name": "WiFi Status",
+        "func": "msg.payload = \"TURNED OFF\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 750,
+        "y": 1440,
+        "wires": [
+            [
+                "01a3dcdb8efa7df4"
+            ]
+        ]
+    },
+    {
+        "id": "94b1358c03e257cc",
+        "type": "ui_toast",
+        "z": "d2f490df54b2a493",
+        "g": "fec5262b965ad4ec",
+        "position": "top right",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "",
+        "x": 960,
+        "y": 1520,
+        "wires": []
+    },
+    {
+        "id": "79a1e7c409fa05d0",
+        "type": "function",
+        "z": "d2f490df54b2a493",
+        "g": "fec5262b965ad4ec",
+        "name": "WiFi Notification",
+        "func": "msg.topic = \"WiFi Status\";\nmsg.payload = \"WiFi is connected !!!\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 760,
+        "y": 1500,
+        "wires": [
+            [
+                "94b1358c03e257cc"
+            ]
+        ]
+    },
+    {
+        "id": "746e6ca95a03efb5",
+        "type": "ui_template",
+        "z": "d2f490df54b2a493",
+        "g": "fec5262b965ad4ec",
+        "group": "fa6ff7795c5140cd",
+        "name": "WiFiStatus",
+        "order": 9,
+        "width": 0,
+        "height": 0,
+        "format": "<div style=\"text-align: center;\">\n    <span style=\"font-weight: bold; font-style: italic;\">\n        WiFi STATUS\n    </span>\n</div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 190,
+        "y": 1380,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a0f45157a80e7b4e",
+        "type": "debug",
+        "z": "d2f490df54b2a493",
+        "g": "fec5262b965ad4ec",
+        "name": "WiFiStatus Debug",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 490,
+        "y": 1520,
+        "wires": []
+    },
+    {
+        "id": "2b592e5fda0a316c",
+        "type": "function",
+        "z": "d2f490df54b2a493",
+        "g": "fec5262b965ad4ec",
+        "name": "WiFi Notification",
+        "func": "msg.topic = \"WiFi Status\";\nmsg.payload = \"WiFi is disconnected !!!\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 760,
+        "y": 1560,
+        "wires": [
+            [
+                "94b1358c03e257cc"
+            ]
+        ]
+    },
+    {
+        "id": "2a8738fbb302cf82",
+        "type": "comment",
+        "z": "d2f490df54b2a493",
+        "g": "fec5262b965ad4ec",
+        "name": "WiFi Status Comment",
+        "info": "The task of this group is doing the wifi status.``",
+        "x": 220,
+        "y": 1540,
+        "wires": []
+    },
+    {
+        "id": "afeee424bfa26113",
+        "type": "ui_switch",
+        "z": "d2f490df54b2a493",
+        "g": "3c5b16a3aeb6c02b",
+        "name": "Activate Flash",
+        "label": "ACTIVATE FLASH",
+        "tooltip": "",
+        "group": "da2955ab1e894c96",
+        "order": 6,
+        "width": "0",
+        "height": "0",
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "ON",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "OFF",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 200,
+        "y": 1720,
+        "wires": [
+            [
+                "a06fb4a8a9e0d234"
+            ]
+        ]
+    },
+    {
+        "id": "a06fb4a8a9e0d234",
+        "type": "mqtt out",
+        "z": "d2f490df54b2a493",
+        "g": "3c5b16a3aeb6c02b",
+        "name": "",
+        "topic": "/HomeDefender/ControlFlash",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "1584b5a33644a100",
+        "x": 460,
+        "y": 1720,
+        "wires": []
+    },
+    {
+        "id": "118e20764e9f53dd",
+        "type": "mqtt in",
+        "z": "d2f490df54b2a493",
+        "g": "3c5b16a3aeb6c02b",
+        "name": "",
+        "topic": "/HomeDefender/FlashStatus",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "1584b5a33644a100",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 240,
+        "y": 1800,
+        "wires": [
+            [
+                "fb85dd4af7ecc2eb"
+            ]
+        ]
+    },
+    {
+        "id": "71310baeea3616a5",
+        "type": "ui_toast",
+        "z": "d2f490df54b2a493",
+        "g": "3c5b16a3aeb6c02b",
+        "position": "top right",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "",
+        "x": 860,
+        "y": 1800,
+        "wires": []
+    },
+    {
+        "id": "8f6ef1538cbe6805",
+        "type": "function",
+        "z": "d2f490df54b2a493",
+        "g": "3c5b16a3aeb6c02b",
+        "name": "Flash notification",
+        "func": "msg.topic = \"Flash notification\";\nmsg.payload = \"Flash is turned on\";\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 650,
+        "y": 1760,
+        "wires": [
+            [
+                "71310baeea3616a5"
+            ]
+        ]
+    },
+    {
+        "id": "fb85dd4af7ecc2eb",
+        "type": "switch",
+        "z": "d2f490df54b2a493",
+        "g": "3c5b16a3aeb6c02b",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 450,
+        "y": 1800,
+        "wires": [
+            [
+                "8f6ef1538cbe6805"
+            ],
+            [
+                "ced95450b0605e06"
+            ]
+        ]
+    },
+    {
+        "id": "ced95450b0605e06",
+        "type": "function",
+        "z": "d2f490df54b2a493",
+        "g": "3c5b16a3aeb6c02b",
+        "name": "Flash notification",
+        "func": "msg.topic =\"Flash notification\";\nmsg.payload = \"Flash is turned off\";\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 650,
+        "y": 1820,
+        "wires": [
+            [
+                "71310baeea3616a5"
+            ]
+        ]
+    },
+    {
+        "id": "23ac2009526fbadb",
+        "type": "ui_template",
+        "z": "d2f490df54b2a493",
+        "g": "3c5b16a3aeb6c02b",
+        "group": "da2955ab1e894c96",
+        "name": "Activate Flash",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "format": "<div style=\"text-align: center;\">\n    <span style=\"font-weight: bold; font-style: italic;\">\n        ACTIVATE FLASH\n    </span>\n</div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 200,
+        "y": 1660,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f88ee9decfc05871",
+        "type": "comment",
+        "z": "d2f490df54b2a493",
+        "g": "3c5b16a3aeb6c02b",
+        "name": "Activate Flash Comment",
+        "info": "Activate the Flash Pin",
+        "x": 450,
+        "y": 1660,
+        "wires": []
+    },
+    {
+        "id": "bcde2609fd69f4d0",
+        "type": "ui_button",
+        "z": "576d13d50710547a",
+        "g": "95d339d24bf805d9",
+        "name": "",
+        "group": "09d367021e44876d",
+        "order": 1,
+        "width": 6,
+        "height": 1,
+        "passthru": false,
+        "label": "Sign In",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "signin",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 140,
+        "y": 620,
+        "wires": [
+            [
+                "4935399c98d6e48f"
+            ]
+        ]
+    },
+    {
+        "id": "20f4b2f5e67d0d6e",
+        "type": "ui_button",
+        "z": "576d13d50710547a",
+        "g": "95d339d24bf805d9",
+        "name": "",
+        "group": "09d367021e44876d",
+        "order": 2,
+        "width": 6,
+        "height": 1,
+        "passthru": false,
+        "label": "Sign Up",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "signup",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 140,
+        "y": 720,
+        "wires": [
+            [
+                "fc024cd172016a60"
+            ]
+        ]
+    },
+    {
+        "id": "9d1dc0731414a5fa",
+        "type": "ui_form",
+        "z": "576d13d50710547a",
+        "g": "5a9d377d8c4bd7f7",
+        "name": "",
+        "label": "Let's sign in",
+        "group": "fdd85b4fc936d320",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "options": [
+            {
+                "label": "Username",
+                "value": "username",
+                "type": "text",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Password",
+                "value": "password",
+                "type": "password",
+                "required": true,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "username": "",
+            "password": ""
+        },
+        "payload": "",
+        "submit": "submit",
+        "cancel": "cancel",
+        "topic": "topic",
+        "topicType": "msg",
+        "splitLayout": "",
+        "className": "",
+        "x": 150,
+        "y": 360,
+        "wires": [
+            [
+                "3328b06076b989c6"
+            ]
+        ]
+    },
+    {
+        "id": "4935399c98d6e48f",
+        "type": "change",
+        "z": "576d13d50710547a",
+        "g": "95d339d24bf805d9",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"tab\":\"Sign In\"}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 340,
+        "y": 620,
+        "wires": [
+            [
+                "af894a9cd013adf5"
+            ]
+        ]
+    },
+    {
+        "id": "af894a9cd013adf5",
+        "type": "ui_ui_control",
+        "z": "576d13d50710547a",
+        "g": "95d339d24bf805d9",
+        "name": "",
+        "events": "all",
+        "x": 520,
+        "y": 680,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f8354cc5d2285f7b",
+        "type": "ui_form",
+        "z": "576d13d50710547a",
+        "g": "5a9d377d8c4bd7f7",
+        "name": "",
+        "label": "Don't have an account?",
+        "group": "582788fcf024c861",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "options": [
+            {
+                "label": "Username",
+                "value": "username",
+                "type": "text",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Email",
+                "value": "email",
+                "type": "email",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Password",
+                "value": "password",
+                "type": "password",
+                "required": true,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "username": "",
+            "email": "",
+            "password": ""
+        },
+        "payload": "",
+        "submit": "submit",
+        "cancel": "cancel",
+        "topic": "topic",
+        "topicType": "msg",
+        "splitLayout": "",
+        "className": "",
+        "x": 190,
+        "y": 500,
+        "wires": [
+            [
+                "612a265becb17fe8"
+            ]
+        ]
+    },
+    {
+        "id": "fc024cd172016a60",
+        "type": "change",
+        "z": "576d13d50710547a",
+        "g": "95d339d24bf805d9",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"tab\":\"Sign Up\"}",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 340,
+        "y": 720,
+        "wires": [
+            [
+                "af894a9cd013adf5"
+            ]
+        ]
+    },
+    {
+        "id": "612a265becb17fe8",
+        "type": "function",
+        "z": "576d13d50710547a",
+        "g": "5a9d377d8c4bd7f7",
+        "name": "Verify Sign Up",
+        "func": "var data = msg.payload;\n\ndata = {\n    ...data,\n    is_auth: false,\n}\n\nmsg.payload = data;\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 440,
+        "y": 500,
+        "wires": [
+            [
+                "78b85d4ed7701adb"
+            ]
+        ]
+    },
+    {
+        "id": "78b85d4ed7701adb",
+        "type": "firebase modify",
+        "z": "576d13d50710547a",
+        "g": "5a9d377d8c4bd7f7",
+        "name": "",
+        "firebaseconfig": "a7e46633e2d6ac87",
+        "childpath": "/User",
+        "method": "set",
+        "value": "msg.payload",
+        "priority": "msg.priority",
+        "x": 780,
+        "y": 500,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "3328b06076b989c6",
+        "type": "function",
+        "z": "576d13d50710547a",
+        "g": "5a9d377d8c4bd7f7",
+        "name": "Verify Sign In",
+        "func": "var signin_info = msg.payload;\nvar auth_info = global.get(\"auth\");\nvar is_auth_succesfully = false;\n\nif (signin_info && auth_info) {\n    var username_signin = signin_info.username;\n    var password_signin = signin_info.password;\n    var username = auth_info.username;\n    var password = auth_info.password;\n\n    var is_condition = (username_signin === username) && (password_signin === password);\n\n    if (is_condition) {\n        is_auth_succesfully = true;\n        auth_info = {\n            ...auth_info,\n            is_auth: true,\n        }\n\n        msg.payload = auth_info;\n    }\n} \n\nif (!is_auth_succesfully) {\n    auth_info = {\n        ...auth_info,\n        is_auth: false,\n    }\n    msg.payload = auth_info;\n}\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 370,
+        "y": 360,
+        "wires": [
+            [
+                "ce39499b1bd14cd7"
+            ]
+        ]
+    },
+    {
+        "id": "2915f47ec2061acc",
+        "type": "firebase.on",
+        "z": "576d13d50710547a",
+        "g": "10184632b8994817",
+        "name": "",
+        "firebaseconfig": "e3e4e34933452fc1",
+        "childpath": "/User",
+        "atStart": true,
+        "eventType": "value",
+        "queries": [],
+        "x": 480,
+        "y": 160,
+        "wires": [
+            [
+                "93f2176ebc6ae0bc"
+            ]
+        ]
+    },
+    {
+        "id": "93f2176ebc6ae0bc",
+        "type": "function",
+        "z": "576d13d50710547a",
+        "g": "10184632b8994817",
+        "name": "Store Authentication",
+        "func": "var auth = await msg.payload;\n\nglobal.set(\"auth\", auth)\nmsg.auth = auth;\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 960,
+        "y": 140,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "57793783f72ce634",
+        "type": "firebase modify",
+        "z": "576d13d50710547a",
+        "g": "5a9d377d8c4bd7f7",
+        "name": "",
+        "firebaseconfig": "918884b2b3810d9f",
+        "childpath": "/User",
+        "method": "set",
+        "value": "msg.payload",
+        "priority": "msg.priority",
+        "x": 960,
+        "y": 320,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ce39499b1bd14cd7",
+        "type": "switch",
+        "z": "576d13d50710547a",
+        "g": "5a9d377d8c4bd7f7",
+        "name": "",
+        "property": "payload.is_auth",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 610,
+        "y": 360,
+        "wires": [
+            [
+                "57793783f72ce634",
+                "1e47fa1733af4c9e"
+            ],
+            [
+                "e7db2d97cad288cc"
+            ]
+        ]
+    },
+    {
+        "id": "c731b7c4781449f4",
+        "type": "ui_toast",
+        "z": "576d13d50710547a",
+        "g": "5a9d377d8c4bd7f7",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "",
+        "x": 1150,
+        "y": 420,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e7db2d97cad288cc",
+        "type": "function",
+        "z": "576d13d50710547a",
+        "g": "5a9d377d8c4bd7f7",
+        "name": "Show error message when auth failed",
+        "func": "msg.payload = \"Oops! Your username or password is not correct. Please try again!\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 890,
+        "y": 420,
+        "wires": [
+            [
+                "c731b7c4781449f4"
+            ]
+        ]
+    },
+    {
+        "id": "1e47fa1733af4c9e",
+        "type": "function",
+        "z": "576d13d50710547a",
+        "g": "5a9d377d8c4bd7f7",
+        "name": "Authentication function",
+        "func": "msg.payload = {\n    tabs: {\n        hide: [\n            \"HomeDefender\",\n            \"Sign In\",\n            \"Sign Up\",\n        ],\n        show: [\n            \"Device Controls\",\n            \"Live Video\",\n            \"History\",\n        ],\n    },\n    tab: \"Device Controls\",\n};\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 840,
+        "y": 260,
+        "wires": [
+            [
+                "8a38ec655daf5676"
+            ]
+        ]
+    },
+    {
+        "id": "9c1c43ea23666bc3",
+        "type": "inject",
+        "z": "576d13d50710547a",
+        "g": "10184632b8994817",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0",
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 150,
+        "y": 100,
+        "wires": [
+            [
+                "8a139242b28ad8c5"
+            ]
+        ]
+    },
+    {
+        "id": "8a139242b28ad8c5",
+        "type": "function",
+        "z": "576d13d50710547a",
+        "g": "10184632b8994817",
+        "name": "Hide and Show Authentication",
+        "func": "var trigger = msg.payload;\n\nif (trigger) {\n    msg.payload = {\n        tabs: {\n            hide: [\n                \"Device Controls\",\n                \"Live Video\",\n                \"History\",\n            ],\n            show: [\n                \"HomeDefender\",\n                \"Sign In\",\n                \"Sign Up\",\n            ]\n        }\n    };\n}\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 390,
+        "y": 100,
+        "wires": [
+            [
+                "f767d38f780b5ee4"
+            ]
+        ]
+    },
+    {
+        "id": "f767d38f780b5ee4",
+        "type": "ui_ui_control",
+        "z": "576d13d50710547a",
+        "g": "10184632b8994817",
+        "name": "",
+        "events": "all",
+        "x": 620,
+        "y": 100,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "8a38ec655daf5676",
+        "type": "ui_ui_control",
+        "z": "576d13d50710547a",
+        "g": "5a9d377d8c4bd7f7",
+        "name": "",
+        "events": "all",
+        "x": 1040,
+        "y": 260,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "9eff16b3ff6e37d8",
+        "type": "ui_button",
+        "z": "f3221a6ce09fb2e0",
+        "g": "ec27908e3607bb73",
+        "name": "",
+        "group": "7e8df163c033a59a",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "LOG OUT",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 160,
+        "y": 160,
+        "wires": [
+            [
+                "f5a8820db1d5601d",
+                "f7b3774c0ef52c35"
+            ]
+        ]
+    },
+    {
+        "id": "f5a8820db1d5601d",
+        "type": "switch",
+        "z": "f3221a6ce09fb2e0",
+        "g": "ec27908e3607bb73",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 330,
+        "y": 160,
+        "wires": [
+            [
+                "b5325768c6a7d549",
+                "e779f78435148203"
+            ]
+        ]
+    },
+    {
+        "id": "b5325768c6a7d549",
+        "type": "function",
+        "z": "f3221a6ce09fb2e0",
+        "g": "ec27908e3607bb73",
+        "name": "Update Auth Logout",
+        "func": "var user_info = global.get(\"auth\");\n\nmsg.payload = {\n    ...user_info,\n    is_auth: false,\n}\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 580,
+        "y": 140,
+        "wires": [
+            [
+                "a3a1cb87490d1719"
+            ]
+        ]
+    },
+    {
+        "id": "e779f78435148203",
+        "type": "function",
+        "z": "f3221a6ce09fb2e0",
+        "g": "ec27908e3607bb73",
+        "name": "Switch UI to Authentication",
+        "func": "msg.payload = {\n    tabs: {\n        hide: [\n            \"Device Controls\",\n            \"Advanced Settings\",\n            \"History\",\n        ],\n        show: [\n            \"HomeDefender\",\n            \"Sign In\",\n            \"Sign Up\",\n        ]\n    },\n    tab: \"Sign In\",\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 600,
+        "y": 220,
+        "wires": [
+            [
+                "d34313e859d2bbdb"
+            ]
+        ]
+    },
+    {
+        "id": "a3a1cb87490d1719",
+        "type": "firebase modify",
+        "z": "f3221a6ce09fb2e0",
+        "g": "ec27908e3607bb73",
+        "name": "",
+        "firebaseconfig": "92076c68d29eacaf",
+        "childpath": "/User",
+        "method": "set",
+        "value": "msg.payload",
+        "priority": "msg.priority",
+        "x": 980,
+        "y": 140,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d34313e859d2bbdb",
+        "type": "ui_ui_control",
+        "z": "f3221a6ce09fb2e0",
+        "g": "ec27908e3607bb73",
+        "name": "",
+        "events": "all",
+        "x": 820,
+        "y": 220,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7094eb477d48d2fd",
+        "type": "ui_toast",
+        "z": "f3221a6ce09fb2e0",
+        "g": "ec27908e3607bb73",
+        "position": "top right",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "Log out Notification",
+        "x": 570,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "f7b3774c0ef52c35",
+        "type": "function",
+        "z": "f3221a6ce09fb2e0",
+        "g": "ec27908e3607bb73",
+        "name": "function 1",
+        "func": "msg.topic = \"Log Out Notification\";\nmsg.payload = \"You have logged out the system !!!\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 340,
+        "y": 280,
+        "wires": [
+            [
+                "7094eb477d48d2fd"
+            ]
+        ]
+    },
+    {
+        "id": "2ef4d1c310ba25c3",
+        "type": "ui_dropdown",
+        "z": "f3221a6ce09fb2e0",
+        "g": "f2b605ac1d885469",
+        "name": "",
+        "label": "",
+        "tooltip": "",
+        "place": "Select option",
+        "group": "1a50c146cd7fe927",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "multiple": false,
+        "options": [],
+        "payload": "",
+        "topic": "topic",
+        "topicType": "msg",
+        "className": "",
+        "x": 920,
+        "y": 480,
+        "wires": [
+            [
+                "854e0e29cc93baf0"
+            ]
+        ]
+    },
+    {
+        "id": "4076880755c340f3",
+        "type": "ui_template",
+        "z": "f3221a6ce09fb2e0",
+        "g": "f2b605ac1d885469",
+        "group": "1a50c146cd7fe927",
+        "name": "View Photos",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "format": "<p>Choose a specific photo via date and time</p>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 150,
+        "y": 420,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a8306391180cb1b5",
+        "type": "ui_template",
+        "z": "f3221a6ce09fb2e0",
+        "g": "f2b605ac1d885469",
+        "group": "1a50c146cd7fe927",
+        "name": "Image",
+        "order": 5,
+        "width": "6",
+        "height": "6",
+        "format": "<img src=\"{{msg.payload}}\" alt=\"image\" style=\"width: 100%; height: 300px; object-fit: contain\">",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 1590,
+        "y": 400,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "854e0e29cc93baf0",
+        "type": "function",
+        "z": "f3221a6ce09fb2e0",
+        "g": "f2b605ac1d885469",
+        "name": "Load data into templete",
+        "func": "global.set(\"view_photo_src\", msg.payload);\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1150,
+        "y": 480,
+        "wires": [
+            [
+                "af649f2e2b67215d"
+            ]
+        ]
+    },
+    {
+        "id": "5736a10b736347c8",
+        "type": "firebase.on",
+        "z": "f3221a6ce09fb2e0",
+        "g": "f2b605ac1d885469",
+        "name": "",
+        "firebaseconfig": "75734d472d2de59b",
+        "childpath": "/Image",
+        "atStart": true,
+        "eventType": "value",
+        "queries": [],
+        "x": 320,
+        "y": 480,
+        "wires": [
+            [
+                "9e97941b21d52bdf"
+            ]
+        ]
+    },
+    {
+        "id": "9e97941b21d52bdf",
+        "type": "function",
+        "z": "f3221a6ce09fb2e0",
+        "g": "f2b605ac1d885469",
+        "name": "Preprocessing data image",
+        "func": "var data = msg.payload;\nvar response = []\n\nfor (const key in data) {\n    if (data.hasOwnProperty(key)) {\n        const obj = data[key];\n        const temp = {};\n        for (const val in obj) {\n            if (obj.hasOwnProperty(val)) {\n                temp[val] = obj[val]\n            }\n        }\n        //temp.value.distance = temp.value.distance.toString() + \"m\";\n        response.push(temp);\n    }\n}\n\nmsg.payload = response;\nmsg.options = msg.payload.map(item => {\n    return { [item.key]: item.value };\n});\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 710,
+        "y": 480,
+        "wires": [
+            [
+                "2ef4d1c310ba25c3"
+            ]
+        ]
+    },
+    {
+        "id": "af649f2e2b67215d",
+        "type": "function",
+        "z": "f3221a6ce09fb2e0",
+        "g": "f2b605ac1d885469",
+        "name": "Check Base64",
+        "func": "let base64String = msg.payload;\n\n// Function to validate if a string is Base64\nfunction isValidBase64(str) {\n    const base64Regex = /^[A-Za-z0-9+/]+={0,2}$/;\n    // Remove 'data:image/...;base64,' prefix if it exists\n    if (str.startsWith(\"data:image/\")) {\n        str = str.split(\",\")[1]; // Extract the Base64 part\n    }\n    // Check if the string matches Base64 format\n    return base64Regex.test(str);\n}\n\nif (isValidBase64(base64String)) {\n    msg.payload = true;\n} else {\n    msg.payload = false;\n}\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1420,
+        "y": 480,
+        "wires": [
+            [
+                "44364923ba63e72e"
+            ]
+        ]
+    },
+    {
+        "id": "44364923ba63e72e",
+        "type": "function",
+        "z": "f3221a6ce09fb2e0",
+        "g": "f2b605ac1d885469",
+        "name": "Handle Image Src",
+        "func": "if (msg.payload) {\n    msg.payload = \"data:image/png;base64,\" + global.get(\"view_photo_src\");\n} else {\n    msg.payload = global.get(\"view_photo_src\");\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1410,
+        "y": 400,
+        "wires": [
+            [
+                "a8306391180cb1b5"
+            ]
+        ]
+    },
+    {
+        "id": "b4452819b059d642",
+        "type": "mqtt in",
+        "z": "f3221a6ce09fb2e0",
+        "g": "cad252d2ec03e55a",
+        "name": "",
+        "topic": "/HomeDefender/UpdateHistoryWarnings",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "1584b5a33644a100",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 250,
+        "y": 620,
+        "wires": [
+            [
+                "682d54645f9d88ce"
+            ]
+        ]
+    },
+    {
+        "id": "682d54645f9d88ce",
+        "type": "function",
+        "z": "f3221a6ce09fb2e0",
+        "g": "cad252d2ec03e55a",
+        "name": "Handle History Warnings",
+        "func": "msg.warnings = msg.payload;\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 570,
+        "y": 620,
+        "wires": [
+            [
+                "83075c2148a02962"
+            ]
+        ]
+    },
+    {
+        "id": "5bf3c9127d28517c",
+        "type": "mqtt in",
+        "z": "f3221a6ce09fb2e0",
+        "g": "cad252d2ec03e55a",
+        "name": "",
+        "topic": "/HomeDefender/UpdateHistoryPhotos",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "1584b5a33644a100",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 250,
+        "y": 660,
+        "wires": [
+            [
+                "f49e456f08b01be3"
+            ]
+        ]
+    },
+    {
+        "id": "f49e456f08b01be3",
+        "type": "function",
+        "z": "f3221a6ce09fb2e0",
+        "g": "cad252d2ec03e55a",
+        "name": "Handle History Photos",
+        "func": "if (msg.payload)\n    msg.photos = msg.payload;\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 580,
+        "y": 660,
+        "wires": [
+            [
+                "83075c2148a02962"
+            ]
+        ]
+    },
+    {
+        "id": "83075c2148a02962",
+        "type": "function",
+        "z": "f3221a6ce09fb2e0",
+        "g": "cad252d2ec03e55a",
+        "name": "Handle History Data",
+        "func": "const today = new Date();\nconst formattedToday = today.toISOString().split('T')[0];\n\nconst today_history = global.get(\"today_history\");\nconst warnings = msg.warnings ? 1 : 0;\nconst photos = msg.photos ? 1 : 0;\n\nmsg.payload = {\n    date: formattedToday,\n    warnings: today_history.warnings + warnings,\n    photos: today_history.photos + photos,\n}\n\nglobal.set(\"today_history\", msg.payload);\nmsg.childpath = \"/History/\" + global.get(\"history_object_key\");\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 840,
+        "y": 640,
+        "wires": [
+            [
+                "6dce5bd68e9efa4f"
+            ]
+        ]
+    },
+    {
+        "id": "6dce5bd68e9efa4f",
+        "type": "firebase modify",
+        "z": "f3221a6ce09fb2e0",
+        "g": "cad252d2ec03e55a",
+        "name": "",
+        "firebaseconfig": "328d9ea24cb762d7",
+        "childpath": "msg.childpath",
+        "method": "update",
+        "value": "msg.payload",
+        "priority": "msg.priority",
+        "x": 1410,
+        "y": 640,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "416bda0e622816fb",
+        "type": "ui_table",
+        "z": "f3221a6ce09fb2e0",
+        "g": "cad252d2ec03e55a",
+        "group": "02e2eb39ba394ce7",
+        "name": "",
+        "order": 2,
+        "width": "12",
+        "height": "12",
+        "columns": [
+            {
+                "field": "date",
+                "title": "Date",
+                "width": "40%",
+                "align": "center",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            },
+            {
+                "field": "warnings",
+                "title": "Warnings",
+                "width": "30%",
+                "align": "center",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            },
+            {
+                "field": "photos",
+                "title": "Photos",
+                "width": "30%",
+                "align": "center",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            }
+        ],
+        "outputs": 0,
+        "cts": false,
+        "x": 1250,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "677e127806d4b7fe",
+        "type": "function",
+        "z": "f3221a6ce09fb2e0",
+        "g": "cad252d2ec03e55a",
+        "name": "Load data into table",
+        "func": "const items = msg.payload.data.map(item => {\n    return item;\n})\n\nmsg.payload = items;\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1030,
+        "y": 720,
+        "wires": [
+            [
+                "416bda0e622816fb"
+            ]
+        ]
+    },
+    {
+        "id": "d4e1622e6df1dc85",
+        "type": "firebase.on",
+        "z": "f3221a6ce09fb2e0",
+        "g": "cad252d2ec03e55a",
+        "name": "",
+        "firebaseconfig": "14ef769b5fcc78e2",
+        "childpath": "/History",
+        "atStart": true,
+        "eventType": "value",
+        "queries": [],
+        "x": 340,
+        "y": 720,
+        "wires": [
+            [
+                "7f8ade50782932f5"
+            ]
+        ]
+    },
+    {
+        "id": "7f8ade50782932f5",
+        "type": "function",
+        "z": "f3221a6ce09fb2e0",
+        "g": "cad252d2ec03e55a",
+        "name": "Preprocessing data table",
+        "func": "var data = msg.payload;\nvar response = []\nvar response_result = {}\n\nfor (const [_, value] of Object.entries(data)) {\n    response.push(value);\n}\n\nresponse_result[\"data\"] = response;\nmsg.payload = response_result;\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 770,
+        "y": 720,
+        "wires": [
+            [
+                "677e127806d4b7fe"
+            ]
+        ]
+    },
+    {
+        "id": "6aa7b7b3b9bfb8a9",
+        "type": "firebase.on",
+        "z": "aaca52cbae79855a",
+        "g": "b213726e0ab2ada2",
+        "name": "",
+        "firebaseconfig": "8e4b6064c5963bef",
+        "childpath": "/History",
+        "atStart": true,
+        "eventType": "value",
+        "queries": [],
+        "x": 280,
+        "y": 280,
+        "wires": [
+            [
+                "8d3e275a50bd080c"
+            ]
+        ]
+    },
+    {
+        "id": "8d3e275a50bd080c",
+        "type": "function",
+        "z": "aaca52cbae79855a",
+        "g": "b213726e0ab2ada2",
+        "name": "Check present moment",
+        "func": "const today = new Date();\nconst formattedToday = today.toISOString().split('T')[0];\n\n// The data from Firebase is passed in msg.payload\nconst data = msg.payload;\n\n// Check if any object has the same date as today's date\nlet objectExists = false;\n\n\nfor (const [key, obj] of Object.entries(data)) {\n    if (obj.date === formattedToday) {\n        objectExists = true;\n        global.set(\"history_object_key\", key); // Store the key of the matching object\n        break; // Stop iteration once a match is found\n    }\n}\n\nmsg.payload = objectExists; // Set true/false to indicate whether the object exists\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 670,
+        "y": 280,
+        "wires": [
+            [
+                "24bc3ed714bb42e7"
+            ]
+        ]
+    },
+    {
+        "id": "24bc3ed714bb42e7",
+        "type": "switch",
+        "z": "aaca52cbae79855a",
+        "g": "b213726e0ab2ada2",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 890,
+        "y": 280,
+        "wires": [
+            [
+                "c39f552fdc2107b4"
+            ],
+            [
+                "eb922cbbb198ef57"
+            ]
+        ]
+    },
+    {
+        "id": "c39f552fdc2107b4",
+        "type": "function",
+        "z": "aaca52cbae79855a",
+        "g": "b213726e0ab2ada2",
+        "name": "Query Today History",
+        "func": "msg.childpath = \"/History/\" + global.get(\"history_object_key\");\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1060,
+        "y": 240,
+        "wires": [
+            [
+                "b284a066f3e4a0e8"
+            ]
+        ]
+    },
+    {
+        "id": "eb922cbbb198ef57",
+        "type": "function",
+        "z": "aaca52cbae79855a",
+        "g": "b213726e0ab2ada2",
+        "name": "Set new data for today history",
+        "func": "const today = new Date();\nconst formattedToday = today.toISOString().split('T')[0];\n\nmsg.payload = {\n    date: formattedToday,\n    warnings: 0,\n    dangers: 0,\n    photos: 0,\n}\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1090,
+        "y": 300,
+        "wires": [
+            [
+                "8151bc9834cc90ae"
+            ]
+        ]
+    },
+    {
+        "id": "b284a066f3e4a0e8",
+        "type": "firebase.once",
+        "z": "aaca52cbae79855a",
+        "g": "b213726e0ab2ada2",
+        "name": "",
+        "firebaseconfig": "8855e223471c4e15",
+        "childpath": "msg.childpath",
+        "repeatifnull": false,
+        "eventType": "value",
+        "queries": [],
+        "x": 1540,
+        "y": 240,
+        "wires": [
+            [
+                "7649a30e8ce6d9d2"
+            ]
+        ]
+    },
+    {
+        "id": "8151bc9834cc90ae",
+        "type": "firebase modify",
+        "z": "aaca52cbae79855a",
+        "g": "b213726e0ab2ada2",
+        "name": "",
+        "firebaseconfig": "0c94463ce9eeb7cf",
+        "childpath": "/History",
+        "method": "push",
+        "value": "msg.payload",
+        "priority": "msg.priority",
+        "x": 1490,
+        "y": 300,
+        "wires": [
+            [
+                "d9cad586450ade3d"
+            ]
+        ]
+    },
+    {
+        "id": "7649a30e8ce6d9d2",
+        "type": "function",
+        "z": "aaca52cbae79855a",
+        "g": "b213726e0ab2ada2",
+        "name": "Set Today History Global",
+        "func": "global.set(\"today_history\", msg.payload)\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1990,
+        "y": 240,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d9cad586450ade3d",
+        "type": "function",
+        "z": "aaca52cbae79855a",
+        "g": "b213726e0ab2ada2",
+        "name": "Set Today History Global",
+        "func": "global.set(\"today_history\", msg.payload)\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1890,
+        "y": 300,
+        "wires": [
+            []
+        ]
+    }
+]
